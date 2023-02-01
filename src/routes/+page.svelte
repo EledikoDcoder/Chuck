@@ -29,8 +29,8 @@
 
 
 
-<div class="flex flex-col w-[100vw] h-[100vh]  bg-gradient-to-r from-cyan-600 to-orange-500 justify-center items-center">
-    <div class="flex flex-col w-[22rem] h-[25rem] shadow-lg bg-[#fff] rounded-md p-4">
+<div class="flex flex-col w-[100vw] h-[100vh]  bg-gradient-to-b from-cyan-600 to-orange-500 justify-center items-center">
+    <div class="flex flex-col w-[20rem] h-[23rem] shadow-lg bg-[#fff] rounded-md p-4">
         <h1 class=" text-center font-bold text-3xl pb-[0.5rem] text-[1.5rem] text-orange-500">CHUCK NORRIS</h1>
 
         <div class="flex flex-col gap-[2rem]  overflow-auto">
