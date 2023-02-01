@@ -22,9 +22,13 @@
         jokes = [...jokes,response.data]
 
         console.log(response)
-    },3500)
- 
+    },4000)
 
+
+    function refreshpage() {
+        location.reload();
+ 
+    }
     </script>
 
 
@@ -41,5 +45,6 @@
             {/each}
         </div>
     </div>
+    <button on:click={refreshpage} class="bg-[#fff] mt-9 py-1.5 px-7  text-cyan-900 text-xl font-bold rounded-md">Restart</button>
 </div>
  
